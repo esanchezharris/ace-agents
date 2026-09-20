@@ -1,0 +1,7 @@
+{
+  "name": "ace-agents",
+  "private": true,
+  "scripts": {
+    "build": "node decode-assets.js"
+  }
+}
